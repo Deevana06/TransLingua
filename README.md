@@ -135,11 +135,3 @@ Language learning support
 
 TransLingua demonstrates how Generative AI can be effectively used to overcome language barriers through a secure, scalable, and user-friendly web application.
 This project reflects real-world AI integration and follows best practices suitable for academic and internship evaluation.
-
-## Author
-
-*Bellary Abubakar (abubakarmr)*
-
-*Gaddam Charan kumar Reddy*
-
-Internship Project – AI & Cloud Application Development
